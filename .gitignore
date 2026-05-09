@@ -1,0 +1,13 @@
+# Bỏ qua thư mục chứa ảnh (Tránh việc đẩy 3600 ảnh lên Github)
+data/
+datastudy/
+
+# Bỏ qua file mô hình nặng của Dlib
+*.dat
+*.bz2
+*.whl
+
+# Bỏ qua các file rác của Python
+__pycache__/
+*.pyc
+
